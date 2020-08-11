@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://utda.github.io/kaishi/iiif/top.json",
   "@type": "sc:Collection",
-  "attribution": "大日本海志編纂資料「起絵図」",
+  "label": "大日本海志編纂資料「起絵図」",
   "manifests": [
     {
       "@id": "https://utda.github.io/kaishi/iiif/7-2-24/manifest.json",
