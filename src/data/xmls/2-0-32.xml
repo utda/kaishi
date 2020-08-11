@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［2-0-32］ 艦法一簣本書" description="" dpi="150" total="20">
+<item label="表紙 (1/20)" id="1" page="1" resource="2-0-32/2-0-32_001" ext="jpg" ldata="128,94" />
+<item label="(2/20)" id="2" page="2" resource="2-0-32/2-0-32_002" ext="jpg" ldata="128,97" />
+<item label="(3/20)" id="3" page="3" resource="2-0-32/2-0-32_003" ext="jpg" ldata="128,97" />
+<item label="(4/20)" id="4" page="4" resource="2-0-32/2-0-32_004" ext="jpg" ldata="128,97" />
+<item label="(5/20)" id="5" page="5" resource="2-0-32/2-0-32_005" ext="jpg" ldata="128,97" />
+<item label="(6/20)" id="6" page="6" resource="2-0-32/2-0-32_006" ext="jpg" ldata="128,97" />
+<item label="(7/20)" id="7" page="7" resource="2-0-32/2-0-32_007" ext="jpg" ldata="128,97" />
+<item label="(8/20)" id="8" page="8" resource="2-0-32/2-0-32_008" ext="jpg" ldata="128,97" />
+<item label="(9/20)" id="9" page="9" resource="2-0-32/2-0-32_009" ext="jpg" ldata="128,97" />
+<item label="(10/20)" id="10" page="10" resource="2-0-32/2-0-32_010" ext="jpg" ldata="128,97" />
+<item label="(11/20)" id="11" page="11" resource="2-0-32/2-0-32_011" ext="jpg" ldata="128,97" />
+<item label="(12/20)" id="12" page="12" resource="2-0-32/2-0-32_012" ext="jpg" ldata="128,97" />
+<item label="(13/20)" id="13" page="13" resource="2-0-32/2-0-32_013" ext="jpg" ldata="128,97" />
+<item label="(14/20)" id="14" page="14" resource="2-0-32/2-0-32_014" ext="jpg" ldata="128,97" />
+<item label="(15/20)" id="15" page="15" resource="2-0-32/2-0-32_015" ext="jpg" ldata="128,97" />
+<item label="(16/20)" id="16" page="16" resource="2-0-32/2-0-32_016" ext="jpg" ldata="128,97" />
+<item label="(17/20)" id="17" page="17" resource="2-0-32/2-0-32_017" ext="jpg" ldata="128,97" />
+<item label="(18/20)" id="18" page="18" resource="2-0-32/2-0-32_018" ext="jpg" ldata="128,97" />
+<item label="(19/20)" id="19" page="19" resource="2-0-32/2-0-32_019" ext="jpg" ldata="128,97" />
+<item label="(20/20)" id="20" page="20" resource="2-0-32/2-0-32_020" ext="jpg" ldata="128,97" />
+</item>

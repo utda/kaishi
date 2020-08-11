@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［2-0-57］ 船軍定" description="" dpi="150" total="13">
+<item label="表紙 (1/13)" id="1" page="1" resource="2-0-57/2-0-57_001" ext="jpg" ldata="128,97" />
+<item label="(2/13)" id="2" page="2" resource="2-0-57/2-0-57_002" ext="jpg" ldata="128,97" />
+<item label="(3/13)" id="3" page="3" resource="2-0-57/2-0-57_003" ext="jpg" ldata="128,97" />
+<item label="(4/13)" id="4" page="4" resource="2-0-57/2-0-57_004" ext="jpg" ldata="128,97" />
+<item label="(5/13)" id="5" page="5" resource="2-0-57/2-0-57_005" ext="jpg" ldata="128,97" />
+<item label="(6/13)" id="6" page="6" resource="2-0-57/2-0-57_006" ext="jpg" ldata="128,97" />
+<item label="(7/13)" id="7" page="7" resource="2-0-57/2-0-57_007" ext="jpg" ldata="128,97" />
+<item label="(8/13)" id="8" page="8" resource="2-0-57/2-0-57_008" ext="jpg" ldata="128,97" />
+<item label="(9/13)" id="9" page="9" resource="2-0-57/2-0-57_009" ext="jpg" ldata="128,97" />
+<item label="(10/13)" id="10" page="10" resource="2-0-57/2-0-57_010" ext="jpg" ldata="128,97" />
+<item label="(11/13)" id="11" page="11" resource="2-0-57/2-0-57_011" ext="jpg" ldata="128,97" />
+<item label="(12/13)" id="12" page="12" resource="2-0-57/2-0-57_012" ext="jpg" ldata="128,97" />
+<item label="(13/13)" id="13" page="13" resource="2-0-57/2-0-57_013" ext="jpg" ldata="128,97" />
+</item>

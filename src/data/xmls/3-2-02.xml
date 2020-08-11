@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［3-2-02］ 覚書" description="" dpi="150" total="6">
+<item label="表紙 (1/6)" id="1" page="1" resource="3-2-02/3-2-02_001" ext="jpg" ldata="128,97" />
+<item label="(2/6)" id="2" page="2" resource="3-2-02/3-2-02_002" ext="jpg" ldata="128,97" />
+<item label="(3/6)" id="3" page="3" resource="3-2-02/3-2-02_003" ext="jpg" ldata="128,97" />
+<item label="(4/6)" id="4" page="4" resource="3-2-02/3-2-02_004" ext="jpg" ldata="128,97" />
+<item label="(5/6)" id="5" page="5" resource="3-2-02/3-2-02_005" ext="jpg" ldata="128,97" />
+<item label="(6/6)" id="6" page="6" resource="3-2-02/3-2-02_006" ext="jpg" ldata="128,97" />
+</item>

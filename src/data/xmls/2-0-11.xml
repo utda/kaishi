@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［2-0-11］ 軍船用法伝授之巻" description="" dpi="150" total="23">
+<item label="表紙 (1/23)" id="1" page="1" resource="2-0-11/2-0-11_001" ext="jpg" ldata="128,97" />
+<item label="(2/23)" id="2" page="2" resource="2-0-11/2-0-11_002" ext="jpg" ldata="128,97" />
+<item label="(3/23)" id="3" page="3" resource="2-0-11/2-0-11_003" ext="jpg" ldata="128,97" />
+<item label="(4/23)" id="4" page="4" resource="2-0-11/2-0-11_004" ext="jpg" ldata="128,97" />
+<item label="(5/23)" id="5" page="5" resource="2-0-11/2-0-11_005" ext="jpg" ldata="128,97" />
+<item label="(6/23)" id="6" page="6" resource="2-0-11/2-0-11_006" ext="jpg" ldata="128,97" />
+<item label="(7/23)" id="7" page="7" resource="2-0-11/2-0-11_007" ext="jpg" ldata="128,97" />
+<item label="(8/23)" id="8" page="8" resource="2-0-11/2-0-11_008" ext="jpg" ldata="128,97" />
+<item label="(9/23)" id="9" page="9" resource="2-0-11/2-0-11_009" ext="jpg" ldata="128,97" />
+<item label="(10/23)" id="10" page="10" resource="2-0-11/2-0-11_010" ext="jpg" ldata="128,97" />
+<item label="(11/23)" id="11" page="11" resource="2-0-11/2-0-11_011" ext="jpg" ldata="128,97" />
+<item label="(12/23)" id="12" page="12" resource="2-0-11/2-0-11_012" ext="jpg" ldata="128,97" />
+<item label="(13/23)" id="13" page="13" resource="2-0-11/2-0-11_013" ext="jpg" ldata="128,97" />
+<item label="(14/23)" id="14" page="14" resource="2-0-11/2-0-11_014" ext="jpg" ldata="128,97" />
+<item label="(15/23)" id="15" page="15" resource="2-0-11/2-0-11_015" ext="jpg" ldata="128,97" />
+<item label="(16/23)" id="16" page="16" resource="2-0-11/2-0-11_016" ext="jpg" ldata="128,97" />
+<item label="(17/23)" id="17" page="17" resource="2-0-11/2-0-11_017" ext="jpg" ldata="128,97" />
+<item label="(18/23)" id="18" page="18" resource="2-0-11/2-0-11_018" ext="jpg" ldata="128,97" />
+<item label="(19/23)" id="19" page="19" resource="2-0-11/2-0-11_019" ext="jpg" ldata="128,97" />
+<item label="(20/23)" id="20" page="20" resource="2-0-11/2-0-11_020" ext="jpg" ldata="128,97" />
+<item label="(21/23)" id="21" page="21" resource="2-0-11/2-0-11_021" ext="jpg" ldata="128,97" />
+<item label="(22/23)" id="22" page="22" resource="2-0-11/2-0-11_022" ext="jpg" ldata="128,97" />
+<item label="(23/23)" id="23" page="23" resource="2-0-11/2-0-11_023" ext="jpg" ldata="128,97" />
+</item>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［7-2-37］ 御召小鷹丸九反帆" description="" dpi="-1" total="8">
+<item label="" id="1" page="1" resource="7-2-37/7-2-37_bs" ext="fzp" view="P" map="layered" data="0,0,28000,8014,0" ldata="128,37">
+	<item map="layered" id="1" name="blanc" ext="jpg" locate="0,0,10,10,0" hold="" />
+	<item map="layered" id="2" name="7-2-37_001_01" ext="fzp" locate="16896,512,5632,7168,0" hold="" />
+	<item map="layered" id="3" name="7-2-37_002_01" ext="fzp" locate="14336,2048,5120,3584,0" hold="2" />
+	<item map="layered" id="4" name="7-2-37_003_01" ext="fzp" locate="15360,512,4096,6656,0" hold="2,3" />
+	<item map="layered" id="5" name="7-2-37_004_01" ext="fzp" locate="9216,2048,5632,3584,0" hold="2,3,4" />
+	<item map="layered" id="6" name="7-2-37_005_01" ext="fzp" locate="12288,2048,4608,3584,0" hold="2,5" />
+	<item map="layered" id="7" name="7-2-37_006_01" ext="fzp" locate="11264,0,6656,5632,0" hold="2,5" />
+	<item map="layered" id="8" name="7-2-37_007_01" ext="fzp" locate="11264,2048,6144,5120,0" hold="2,5" />
+	<item map="layered" id="9" name="7-2-37_008_01" ext="fzp" locate="7168,512,5632,4608,0" hold="2" />
+	<item map="layered" id="10" name="7-2-37_009_01" ext="fzp" locate="7680,2048,5120,5120,0" hold="2,9" />
+	<item map="layered" id="11" name="7-2-37_010_01" ext="fzp" locate="5632,2560,5120,2560,0" hold="2,9,10" />
+	<item map="layered" id="12" name="7-2-37_011_01" ext="fzp" locate="8192,2560,7168,2560,0" hold="2,9,10,11" />
+	<item map="layered" id="13" name="7-2-37_012_01" ext="fzp" locate="7680,2048,4096,3584,0" hold="2,9,10,11,12" />
+	<item map="layered" id="14" name="7-2-37_013_01" ext="fzp" locate="8704,2560,2048,2048,0" hold="2" />
+	<item map="layered" id="15" name="7-2-37_014_01" ext="fzp" locate="512,0,7168,7680,0" hold="2" />
+	<item map="layered" id="16" name="7-2-37_015_01" ext="fzp" locate="2048,1024,6144,5632,0" hold="2,15" />
+	<item map="layered" id="17" name="7-2-37_016_01" ext="fzp" locate="3584,1024,4608,5632,0" hold="2,15,16" />
+	<item map="layered" id="18" name="7-2-37_017_01" ext="fzp" locate="2560,2048,3584,1536,0" hold="2,15,16,17" />
+</item>
+<item label="" id="2" page="2" resource="7-2-37/7-2-37_000" ext="fzp" ldata="96,128" />
+<item label="ベース" id="3" page="3" resource="7-2-37/7-2-37" ext="fzp" ldata="128,39" />
+<item label="パーツ" id="4" page="4" resource="7-2-37/7-2-37_P_001" ext="fzp" ldata="128,66" />
+<item label="パーツ表" id="5" page="5" resource="7-2-37/7-2-37_P_002" ext="fzp" ldata="128,74" />
+<item label="パーツ裏" id="6" page="6" resource="7-2-37/7-2-37_P_003" ext="fzp" ldata="128,73" />
+<item label="パーツ表" id="7" page="7" resource="7-2-37/7-2-37_P_004" ext="fzp" ldata="128,89" />
+<item label="パーツ裏" id="8" page="8" resource="7-2-37/7-2-37_P_005" ext="fzp" ldata="128,90" />
+</item>

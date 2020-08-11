@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［7-2-56］ 徳島藩御召船之図" description="" dpi="-1" total="7">
+<item label="" id="1" page="1" resource="7-2-55/7-2-55_b" ext="fzp" ldata="128,54" />
+<item label="" id="2" page="2" resource="7-2-55/7-2-55_a" ext="fzp" ldata="128,54" />
+<item label="" id="3" page="3" resource="7-2-55/7-2-55_P_001" ext="fzp" ldata="128,41" />
+<item label="" id="4" page="4" resource="7-2-55/7-2-55_P_002" ext="fzp" ldata="128,40" />
+<item label="" id="5" page="5" resource="7-2-55/7-2-55_P_003" ext="fzp" ldata="128,86" />
+<item label="" id="6" page="6" resource="7-2-55/7-2-55_P_004" ext="fzp" ldata="128,86" />
+<item label="" id="7" page="7" resource="7-2-55/7-2-55_000" ext="fzp" ldata="96,128" />
+</item>

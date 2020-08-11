@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［7-2-36］ 小鷹丸之図" description="" dpi="-1" total="4">
+<item label="" id="1" page="1" resource="7-2-36/7-2-36" ext="fzp" ldata="128,27" />
+<item label="" id="2" page="2" resource="7-2-36/7-2-36_b" ext="fzp" ldata="128,27" />
+<item label="" id="3" page="3" resource="7-2-36/7-2-36_p_c" ext="fzp" ldata="128,96" />
+<item label="" id="4" page="4" resource="7-2-36/7-2-36_000" ext="fzp" ldata="47,128" />
+</item>

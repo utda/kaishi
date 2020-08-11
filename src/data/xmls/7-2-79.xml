@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［7-2-80］ 船散図" description="" dpi="-1" total="11">
+<item label="表紙 (1/11)" id="1" page="1" resource="7-2-79/7-2-79_000" ext="fzp" ldata="102,128" />
+<item label="(2/11)" id="2" page="2" resource="7-2-79/7-2-79_001" ext="fzp" ldata="128,60" />
+<item label="(3/11)" id="3" page="3" resource="7-2-79/7-2-79_002" ext="fzp" ldata="128,54" />
+<item label="(4/11)" id="4" page="4" resource="7-2-79/7-2-79_003" ext="fzp" ldata="128,60" />
+<item label="(5/11)" id="5" page="5" resource="7-2-79/7-2-79_004" ext="fzp" ldata="128,83" />
+<item label="(6/11)" id="6" page="6" resource="7-2-79/7-2-79_005" ext="fzp" ldata="128,83" />
+<item label="(7/11)" id="7" page="7" resource="7-2-79/7-2-79_006" ext="fzp" ldata="128,74" />
+<item label="(8/11)" id="8" page="8" resource="7-2-79/7-2-79_007" ext="fzp" ldata="128,74" />
+<item label="(9/11)" id="9" page="9" resource="7-2-79/7-2-79_008" ext="fzp" ldata="128,73" />
+<item label="(10/11)" id="10" page="10" resource="7-2-79/7-2-79_009" ext="fzp" ldata="128,81" />
+<item label="(11/11)" id="11" page="11" resource="7-2-79/7-2-79_010" ext="fzp" ldata="128,74" />
+</item>

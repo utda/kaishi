@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［7-3-30］ 武田信玄軍艦之図" description="" dpi="-1" total="2">
+<item label="" id="1" page="1" resource="7-3-30/7-3-30" ext="fzp" ldata="128,96" />
+<item label="" id="2" page="2" resource="7-3-30/7-3-30_000" ext="fzp" ldata="128,96" />
+</item>

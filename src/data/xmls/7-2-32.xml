@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［7-2-32］ 御召住吉丸起シ絵図" description="" dpi="-1" total="4">
+<item label="" id="1" page="1" resource="7-2-32/7-2-32_bs" ext="fzp" view="P" map="layered" data="0,0,28000,8379,0" ldata="128,39">
+	<item map="layered" id="1" name="blanc" ext="jpg" locate="0,0,10,10,0" hold="" />
+	<item map="layered" id="2" name="7-2-32_002_1" ext="fzp" locate="0,0,10240,8379,0" hold="" />
+	<item map="layered" id="3" name="7-2-32_003_1" ext="fzp" locate="1536,2560,4096,2048,0" hold="2" />
+	<item map="layered" id="4" name="7-2-32_004_1" ext="fzp" locate="2560,1024,5120,6656,0" hold="2" />
+	<item map="layered" id="5" name="7-2-32_001_1" ext="fzp" locate="14848,3072,1536,2048,0" hold="2,4" />
+	<item map="layered" id="6" name="7-2-32_001_2" ext="fzp" locate="13312,512,1536,2048,0" hold="2,4,5" />
+	<item map="layered" id="7" name="7-2-32_001_3" ext="fzp" locate="13824,5120,1024,2048,0" hold="2,4,5,6" />
+	<item map="layered" id="8" name="7-2-32_001_4" ext="fzp" locate="9216,0,1536,2560,0" hold="2,4,5,6,7" />
+	<item map="layered" id="9" name="7-2-32_001_5" ext="fzp" locate="9216,5632,1536,2048,0" hold="2,4,5,6,7,8" />
+</item>
+<item label="" id="2" page="2" resource="7-2-32/7-2-32_000" ext="fzp" ldata="96,128" />
+<item label="ベース" id="3" page="3" resource="7-2-32/7-2-32" ext="fzp" ldata="128,40" />
+<item label="パーツ" id="4" page="4" resource="7-2-32/7-2-32_P_001" ext="fzp" ldata="108,128" />
+</item>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［7-2-64_00］ 泰宝丸・同小伝馬・御召八挺立・鯨八挺立
+　　　　　　　・河御座船・御軍船・川舟大平田之図" description="" dpi="-1" total="18">
+<item label="表紙 (1/18)" id="1" page="1" resource="7-2-63_00/7-2-63_000" ext="fzp" ldata="111,128" />
+<item label="(2/18)" id="2" page="2" resource="7-2-63_01/7-2-63_01" ext="fzp" ldata="128,51" />
+<item label="(3/18)" id="3" page="3" resource="7-2-63_02/7-2-63_02" ext="fzp" ldata="128,37" />
+<item label="(4/18)" id="4" page="4" resource="7-2-63_03/7-2-63_03" ext="fzp" ldata="128,87" />
+<item label="(5/18)" id="5" page="5" resource="7-2-63_04/7-2-63_04" ext="fzp" ldata="128,91" />
+<item label="(6/18)" id="6" page="6" resource="7-2-63_05/7-2-63_05" ext="fzp" ldata="128,67" />
+<item label="(7/18)" id="7" page="7" resource="7-2-63_06/7-2-63_06" ext="fzp" ldata="128,81" />
+<item label="(8/18)" id="8" page="8" resource="7-2-63_07/7-2-63_07" ext="fzp" ldata="128,58" />
+<item label="(9/18)" id="9" page="9" resource="7-2-63_08/7-2-63_08" ext="fzp" ldata="128,81" />
+<item label="(10/18)" id="10" page="10" resource="7-2-63_09/7-2-63_09" ext="fzp" ldata="128,52" />
+<item label="(11/18)" id="11" page="11" resource="7-2-63_10/7-2-63_10" ext="fzp" ldata="128,81" />
+<item label="(12/18)" id="12" page="12" resource="7-2-63_11/7-2-63_11" ext="fzp" ldata="128,94" />
+<item label="(13/18)" id="13" page="13" resource="7-2-63_12/7-2-63_12" ext="fzp" ldata="128,73" />
+<item label="(14/18)" id="14" page="14" resource="7-2-63_13/7-2-63_13" ext="fzp" ldata="128,81" />
+<item label="(15/18)" id="15" page="15" resource="7-2-63_14/7-2-63_14" ext="fzp" ldata="128,79" />
+<item label="(16/18)" id="16" page="16" resource="7-2-63_15/7-2-63_15" ext="fzp" ldata="128,62" />
+<item label="(17/18)" id="17" page="17" resource="7-2-63_16/7-2-63_16" ext="fzp" ldata="128,60" />
+<item label="(18/18)" id="18" page="18" resource="7-2-63_17/7-2-63_17" ext="fzp" ldata="128,59" />
+</item>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［7-2-81］ 西洋形船散図" description="" dpi="-1" total="33">
+<item label="表紙 (1/33)" id="1" page="1" resource="7-2-80_00/7-2-80_000" ext="fzp" ldata="96,128" />
+<item label="(2/33)" id="2" page="2" resource="7-2-80_01/7-2-80_001" ext="fzp" ldata="128,128" />
+<item label="(3/33)" id="3" page="3" resource="7-2-80_02/7-2-80_002" ext="fzp" ldata="128,128" />
+<item label="(4/33)" id="4" page="4" resource="7-2-80_03/7-2-80_003" ext="fzp" ldata="128,128" />
+<item label="(5/33)" id="5" page="5" resource="7-2-80_04/7-2-80_004" ext="fzp" ldata="128,128" />
+<item label="(6/33)" id="6" page="6" resource="7-2-80_05/7-2-80_005" ext="fzp" ldata="128,128" />
+<item label="(7/33)" id="7" page="7" resource="7-2-80_06/7-2-80_006" ext="fzp" ldata="128,128" />
+<item label="(8/33)" id="8" page="8" resource="7-2-80_07/7-2-80_007" ext="fzp" ldata="128,128" />
+<item label="(9/33)" id="9" page="9" resource="7-2-80_08/7-2-80_008" ext="fzp" ldata="128,128" />
+<item label="(10/33)" id="10" page="10" resource="7-2-80_09/7-2-80_009" ext="fzp" ldata="128,128" />
+<item label="(11/33)" id="11" page="11" resource="7-2-80_10/7-2-80_010" ext="fzp" ldata="128,128" />
+<item label="(12/33)" id="12" page="12" resource="7-2-80_11/7-2-80_011" ext="fzp" ldata="128,128" />
+<item label="(13/33)" id="13" page="13" resource="7-2-80_12/7-2-80_012" ext="fzp" ldata="128,128" />
+<item label="(14/33)" id="14" page="14" resource="7-2-80_13/7-2-80_013" ext="fzp" ldata="128,128" />
+<item label="(15/33)" id="15" page="15" resource="7-2-80_14/7-2-80_014" ext="fzp" ldata="128,128" />
+<item label="(16/33)" id="16" page="16" resource="7-2-80_15/7-2-80_015" ext="fzp" ldata="128,128" />
+<item label="(17/33)" id="17" page="17" resource="7-2-80_16/7-2-80_016" ext="fzp" ldata="128,128" />
+<item label="(18/33)" id="18" page="18" resource="7-2-80_17/7-2-80_017" ext="fzp" ldata="128,128" />
+<item label="(19/33)" id="19" page="19" resource="7-2-80_18/7-2-80_018" ext="fzp" ldata="128,128" />
+<item label="(20/33)" id="20" page="20" resource="7-2-80_19/7-2-80_019" ext="fzp" ldata="128,128" />
+<item label="(21/33)" id="21" page="21" resource="7-2-80_20/7-2-80_020" ext="fzp" ldata="128,128" />
+<item label="(22/33)" id="22" page="22" resource="7-2-80_21/7-2-80_021" ext="fzp" ldata="128,128" />
+<item label="(23/33)" id="23" page="23" resource="7-2-80_22/7-2-80_022" ext="fzp" ldata="128,128" />
+<item label="(24/33)" id="24" page="24" resource="7-2-80_23/7-2-80_023" ext="fzp" ldata="128,128" />
+<item label="(25/33)" id="25" page="25" resource="7-2-80_24/7-2-80_024" ext="fzp" ldata="128,128" />
+<item label="(26/33)" id="26" page="26" resource="7-2-80_25/7-2-80_025" ext="fzp" ldata="128,91" />
+<item label="(27/33)" id="27" page="27" resource="7-2-80_26/7-2-80_026" ext="fzp" ldata="128,91" />
+<item label="(28/33)" id="28" page="28" resource="7-2-80_27/7-2-80_027" ext="fzp" ldata="128,128" />
+<item label="(29/33)" id="29" page="29" resource="7-2-80_28/7-2-80_028" ext="fzp" ldata="128,128" />
+<item label="(30/33)" id="30" page="30" resource="7-2-80_29/7-2-80_029" ext="fzp" ldata="128,128" />
+<item label="(31/33)" id="31" page="31" resource="7-2-80_30/7-2-80_030" ext="fzp" ldata="128,52" />
+<item label="(32/33)" id="32" page="32" resource="7-2-80_31/7-2-80_031" ext="fzp" ldata="128,52" />
+<item label="(33/33)" id="33" page="33" resource="7-2-80_32/7-2-80_032" ext="fzp" ldata="128,35" />
+</item>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［7-2-29］ 万歳丸" description="" dpi="-1" total="9">
+<item label="" id="1" page="1" resource="7-2-29/7-2-29_bs" ext="fzp" view="P" map="layered" data="0,0,24576,7680,0" ldata="128,40">
+	<item map="layered" id="1" name="blanc" ext="jpg" locate="0,0,10,10,0" hold="" />
+	<item map="layered" id="2" name="7-2-29_001_1" ext="fzp" locate="19968,0,4093,7168,0" hold="" />
+	<item map="layered" id="3" name="7-2-29_002_1" ext="fzp" locate="16896,3584,7680,3584,0" hold="" />
+	<item map="layered" id="4" name="7-2-29_003_1" ext="fzp" locate="11776,3072,1536,2560,0" hold="3" />
+	<item map="layered" id="5" name="7-2-29_004_1" ext="fzp" locate="10752,512,4608,5632,0" hold="3" />
+	<item map="layered" id="6" name="7-2-29_005_1" ext="fzp" locate="10752,2560,4608,4637,0" hold="3,5" />
+	<item map="layered" id="7" name="7-2-29_006_1" ext="fzp" locate="10752,3584,2048,1024,0" hold="3,5,6" />
+	<item map="layered" id="8" name="7-2-29_007_1" ext="fzp" locate="12288,3072,5120,1536,0" hold="3,5,6" />
+	<item map="layered" id="9" name="7-2-29_008_1" ext="fzp" locate="12288,2560,5120,2560,0" hold="3,5,6" />
+	<item map="layered" id="10" name="7-2-29_009_1" ext="fzp" locate="14848,2560,3072,1515,0" hold="3,5,6,9" />
+	<item map="layered" id="11" name="7-2-29_010_1" ext="fzp" locate="14336,3584,4608,2048,0" hold="3,5,6,9" />
+	<item map="layered" id="12" name="7-2-29_011_1" ext="fzp" locate="10752,2560,4608,2560,0" hold="3,5,6,9" />
+	<item map="layered" id="13" name="7-2-29_013_1" ext="fzp" locate="14848,1024,1536,4608,0" hold="3,5,6" />
+	<item map="layered" id="14" name="7-2-29_015_1" ext="fzp" locate="13312,3072,5632,1536,0" hold="3,5,6" />
+	<item map="layered" id="15" name="7-2-29_017_1" ext="fzp" locate="14336,2048,2048,4608,0" hold="3,5,6" />
+	<item map="layered" id="16" name="7-2-29_019_1" ext="fzp" locate="10752,2560,4608,2560,0" hold="3,5,6,9" />
+	<item map="layered" id="17" name="7-2-29_020_1" ext="fzp" locate="9216,2560,4608,2560,0" hold="3,5,6,9,16" />
+	<item map="layered" id="18" name="7-2-29_021_1" ext="fzp" locate="8704,3072,3072,1536,0" hold="3,5,6,9,16,17" />
+	<item map="layered" id="19" name="7-2-29_022_1" ext="fzp" locate="8704,2560,5120,2560,0" hold="3,5,6,9,16" />
+	<item map="layered" id="20" name="7-2-29_029_1" ext="fzp" locate="0,512,6144,6656,0" hold="3,5,6,9,16,19" />
+	<item map="layered" id="21" name="7-2-29_030_1" ext="fzp" locate="1536,1024,6144,5632,0" hold="3,5,6,9,16,19,20" />
+	<item map="layered" id="22" name="7-2-29_031_1" ext="fzp" locate="2560,1536,6144,4608,0" hold="3,5,6,9,16,19,20,21" />
+	<item map="layered" id="23" name="7-2-29_023_1" ext="fzp" locate="6656,2560,5120,4096,0" hold="3,5,6,9,16,19,20,21,22" />
+	<item map="layered" id="24" name="7-2-29_025_1" ext="fzp" locate="7680,2560,6656,2560,0" hold="3,5,6,9,16,19,20,21,22,23" />
+	<item map="layered" id="25" name="7-2-29_026_1" ext="fzp" locate="11264,3584,2048,1024,0" hold="3,5,6,9,16,19,20,21,22,23,24" />
+	<item map="layered" id="26" name="7-2-29_027_1" ext="fzp" locate="5120,2560,4608,2560,0" hold="3,5,6,9,16,19,20,21,22,23,24" />
+	<item map="layered" id="27" name="7-2-29_028_1" ext="fzp" locate="6656,2560,4608,2560,0" hold="3,5,6,9,16,19,20,21,22,23,24,26" />
+	<item map="layered" id="28" name="7-2-29_024_1" ext="fzp" locate="6656,512,5120,4608,0" hold="3,5,6,9,16,19,20,21,22" />
+</item>
+<item label="" id="2" page="2" resource="7-2-29/7-2-29_000" ext="fzp" ldata="96,128" />
+<item label="ベース" id="3" page="3" resource="7-2-29/7-2-29" ext="fzp" ldata="128,40" />
+<item label="パーツ" id="4" page="4" resource="7-2-29/7-2-29_P_001" ext="fzp" ldata="128,93" />
+<item label="パーツ" id="5" page="5" resource="7-2-29/7-2-29_P_002" ext="fzp" ldata="128,65" />
+<item label="パーツ" id="6" page="6" resource="7-2-29/7-2-29_P_003" ext="fzp" ldata="128,64" />
+<item label="パーツ" id="7" page="7" resource="7-2-29/7-2-29_P_004" ext="fzp" ldata="128,75" />
+<item label="パーツ" id="8" page="8" resource="7-2-29/7-2-29_P_005" ext="fzp" ldata="82,128" />
+<item label="パーツ" id="9" page="9" resource="7-2-29/7-2-29_P_006" ext="fzp" ldata="82,128" />
+</item>

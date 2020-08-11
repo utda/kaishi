@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［7-2-30］ 御召万歳丸腹形" description="" dpi="-1" total="1">
+<item label="" id="1" page="1" resource="7-2-30/7-2-30_bs" ext="fzp" view="P" map="layered" data="0,0,19456,7000,0" ldata="128,46">
+	<item map="layered" id="1" name="blanc" ext="jpg" locate="0,0,10,10,0" hold="" />
+	<item map="layered" id="2" name="7-2-30_005_01" ext="fzp" locate="0,1024,5632,5976,0" hold="" />
+	<item map="layered" id="3" name="7-2-30_006_01" ext="fzp" locate="3584,4096,2048,1536,0" hold="2" />
+	<item map="layered" id="4" name="7-2-30_007_01" ext="fzp" locate="0,1536,6144,5464,0" hold="2" />
+	<item map="layered" id="5" name="7-2-30_009_01" ext="fzp" locate="1536,1024,5632,5976,0" hold="2,4" />
+	<item map="layered" id="6" name="7-2-30_010_01" ext="fzp" locate="4096,3072,4096,2048,0" hold="2,4,5" />
+	<item map="layered" id="7" name="7-2-30_011_01" ext="fzp" locate="6144,3072,3584,2048,0" hold="2,4,5" />
+	<item map="layered" id="8" name="7-2-30_012_01" ext="fzp" locate="5632,3072,3584,2048,0" hold="2,4,5,7" />
+	<item map="layered" id="9" name="7-2-30_014_01" ext="fzp" locate="9216,1024,4096,4352,0" hold="2,4,5" />
+	<item map="layered" id="10" name="7-2-30_013_01" ext="fzp" locate="5632,3072,4096,3584,0" hold="2,4,5,9" />
+	<item map="layered" id="11" name="7-2-30_015_01" ext="fzp" locate="8704,3072,3584,2048,0" hold="2,4,5,7,8,9" />
+	<item map="layered" id="12" name="7-2-30_019_01" ext="fzp" locate="9216,2560,3072,1536,0" hold="2,4,5,7,8,9,11" />
+	<item map="layered" id="13" name="7-2-30_016_01" ext="fzp" locate="6656,2560,5632,2560,0" hold="2,4,5,7,8,9" />
+	<item map="layered" id="14" name="7-2-30_017_01" ext="fzp" locate="6656,2560,3584,3072,0" hold="2,4,5,7,8,9,13" />
+	<item map="layered" id="15" name="7-2-30_018_01" ext="fzp" locate="8704,1024,1024,2560,0" hold="2,4,5,7,8,9,13,14" />
+	<item map="layered" id="16" name="7-2-30_018_02" ext="fzp" locate="8704,2560,3584,3584,0" hold="2,4,5,7,8,9,13,14" />
+	<item map="layered" id="17" name="7-2-30_022_01" ext="fzp" locate="9216,2560,4096,3072,0" hold="2,4,5,7,8,9,13" />
+	<item map="layered" id="18" name="7-2-30_023_01" ext="fzp" locate="8192,2560,5120,3584,0" hold="2,4,5,7,8,9,13" />
+	<item map="layered" id="19" name="7-2-30_024_01" ext="fzp" locate="8192,2048,5120,4608,0" hold="2,4,5,7,8,9,13" />
+	<item map="layered" id="20" name="7-2-30_026_01" ext="fzp" locate="12288,2560,3584,2048,0" hold="2,4,5,7,8,9,13,17" />
+	<item map="layered" id="21" name="7-2-30_027_01" ext="fzp" locate="10752,2560,4096,3072,0" hold="2,4,5,7,8,9,13,17" />
+	<item map="layered" id="22" name="7-2-30_028_01" ext="fzp" locate="12288,2560,2048,4096,0" hold="2,4,5,7,8,9,13,17,21" />
+	<item map="layered" id="23" name="7-2-30_029_01" ext="fzp" locate="12800,3072,2048,3072,0" hold="2,4,5,7,8,9,13,17,21,22" />
+	<item map="layered" id="24" name="7-2-30_030_01" ext="fzp" locate="12288,1024,2048,4608,0" hold="2,4,5,7,8,9,13,17,21" />
+	<item map="layered" id="25" name="7-2-30_031_01" ext="fzp" locate="13824,3072,3584,2048,0" hold="2,4,5,7,8,9,13,17,21" />
+	<item map="layered" id="26" name="7-2-30_032_01" ext="fzp" locate="11264,2048,3072,1536,0" hold="2,4,5,7,8,9,13,17,21,24" />
+	<item map="layered" id="27" name="7-2-30_034_01" ext="fzp" locate="11776,3072,4096,2048,0" hold="2,4,5,7,8,9,13,17,21" />
+	<item map="layered" id="28" name="7-2-30_035_01" ext="fzp" locate="13824,3584,3584,2048,0" hold="2,4,5,7,8,9,13,17,21,27" />
+	<item map="layered" id="29" name="7-2-30_036_01" ext="fzp" locate="8704,0,5120,3584,0" hold="2,4,5,7,8,9,13,17,21" />
+	<item map="layered" id="30" name="7-2-30_032_02" ext="fzp" locate="13312,3072,2560,2048,0" hold="2,4,5,7,8,9,13,17,21" />
+</item>
+<item label="" id="52" page="2" resource="7-2-30/7-2-30_000" ext="fzp" ldata="96,128" />
+<item label="" id="53" page="3" resource="7-2-30/7-2-30_001" ext="fzp" ldata="96,128" />
+<item label="" id="54" page="4" resource="7-2-30/7-2-30_002" ext="fzp" ldata="96,128" />
+<item label="" id="55" page="5" resource="7-2-30/7-2-30_003" ext="fzp" ldata="96,128" />
+<item label="" id="56" page="6" resource="7-2-30/7-2-30_004" ext="fzp" ldata="96,128" />
+<item label="" id="57" page="7" resource="7-2-30/7-2-30_005" ext="fzp" ldata="96,128" />
+<item label="" id="58" page="8" resource="7-2-30/7-2-30_006" ext="fzp" ldata="96,128" />
+<item label="" id="59" page="9" resource="7-2-30/7-2-30_007" ext="fzp" ldata="96,128" />
+<item label="" id="60" page="10" resource="7-2-30/7-2-30_008" ext="fzp" ldata="96,128" />
+<item label="" id="61" page="11" resource="7-2-30/7-2-30_009" ext="fzp" ldata="96,128" />
+<item label="" id="62" page="12" resource="7-2-30/7-2-30_010" ext="fzp" ldata="96,128" />
+<item label="" id="63" page="13" resource="7-2-30/7-2-30_011" ext="fzp" ldata="96,128" />
+<item label="" id="64" page="14" resource="7-2-30/7-2-30_012" ext="fzp" ldata="96,128" />
+<item label="" id="65" page="15" resource="7-2-30/7-2-30_013" ext="fzp" ldata="96,128" />
+<item label="" id="66" page="16" resource="7-2-30/7-2-30_014" ext="fzp" ldata="96,128" />
+<item label="" id="67" page="17" resource="7-2-30/7-2-30_015" ext="fzp" ldata="96,128" />
+<item label="" id="68" page="18" resource="7-2-30/7-2-30_016" ext="fzp" ldata="96,128" />
+<item label="" id="69" page="19" resource="7-2-30/7-2-30_017" ext="fzp" ldata="96,128" />
+<item label="" id="70" page="20" resource="7-2-30/7-2-30_018" ext="fzp" ldata="96,128" />
+<item label="" id="71" page="21" resource="7-2-30/7-2-30_019" ext="fzp" ldata="96,128" />
+<item label="" id="72" page="22" resource="7-2-30/7-2-30_020" ext="fzp" ldata="96,128" />
+<item label="" id="73" page="23" resource="7-2-30/7-2-30_021" ext="fzp" ldata="96,128" />
+<item label="" id="74" page="24" resource="7-2-30/7-2-30_022" ext="fzp" ldata="96,128" />
+<item label="" id="75" page="25" resource="7-2-30/7-2-30_023" ext="fzp" ldata="96,128" />
+<item label="" id="76" page="26" resource="7-2-30/7-2-30_024" ext="fzp" ldata="96,128" />
+<item label="" id="77" page="27" resource="7-2-30/7-2-30_025" ext="fzp" ldata="96,128" />
+<item label="" id="78" page="28" resource="7-2-30/7-2-30_026" ext="fzp" ldata="96,128" />
+<item label="" id="79" page="29" resource="7-2-30/7-2-30_027" ext="fzp" ldata="96,128" />
+<item label="" id="80" page="30" resource="7-2-30/7-2-30_028" ext="fzp" ldata="96,128" />
+<item label="" id="81" page="31" resource="7-2-30/7-2-30_029" ext="fzp" ldata="96,128" />
+<item label="" id="82" page="32" resource="7-2-30/7-2-30_030" ext="fzp" ldata="96,128" />
+<item label="" id="83" page="33" resource="7-2-30/7-2-30_031" ext="fzp" ldata="96,128" />
+<item label="" id="84" page="34" resource="7-2-30/7-2-30_032" ext="fzp" ldata="96,128" />
+<item label="" id="85" page="35" resource="7-2-30/7-2-30_033" ext="fzp" ldata="96,128" />
+<item label="" id="86" page="36" resource="7-2-30/7-2-30_034" ext="fzp" ldata="96,128" />
+<item label="" id="87" page="37" resource="7-2-30/7-2-30_035" ext="fzp" ldata="96,128" />
+<item label="" id="88" page="38" resource="7-2-30/7-2-30_036" ext="fzp" ldata="96,128" />
+</item>

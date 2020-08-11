@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［4-3-04］ 漂船具報並姓名" description="" dpi="150" total="9">
+<item label="表紙 (1/9)" id="1" page="1" resource="4-3-04/4-3-04_001" ext="jpg" ldata="128,97" />
+<item label="(2/9)" id="2" page="2" resource="4-3-04/4-3-04_002" ext="jpg" ldata="128,97" />
+<item label="(3/9)" id="3" page="3" resource="4-3-04/4-3-04_003" ext="jpg" ldata="128,97" />
+<item label="(4/9)" id="4" page="4" resource="4-3-04/4-3-04_004" ext="jpg" ldata="128,97" />
+<item label="(5/9)" id="5" page="5" resource="4-3-04/4-3-04_005" ext="jpg" ldata="128,97" />
+<item label="(6/9)" id="6" page="6" resource="4-3-04/4-3-04_006" ext="jpg" ldata="128,97" />
+<item label="(7/9)" id="7" page="7" resource="4-3-04/4-3-04_007" ext="jpg" ldata="128,97" />
+<item label="(8/9)" id="8" page="8" resource="4-3-04/4-3-04_008" ext="jpg" ldata="128,97" />
+<item label="(9/9)" id="9" page="9" resource="4-3-04/4-3-04_009" ext="jpg" ldata="128,97" />
+</item>

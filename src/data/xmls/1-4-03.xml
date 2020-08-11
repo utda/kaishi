@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［1-4-03］ 野島流軍船図解" description="" dpi="150" total="23">
+<item label="表紙 (1/23)" id="1" page="1" resource="1-4-03/1-4-03_001" ext="jpg" ldata="128,97" />
+<item label="(2/23)" id="2" page="2" resource="1-4-03/1-4-03_002" ext="jpg" ldata="128,97" />
+<item label="(3/23)" id="3" page="3" resource="1-4-03/1-4-03_003" ext="jpg" ldata="128,97" />
+<item label="(4/23)" id="4" page="4" resource="1-4-03/1-4-03_004" ext="jpg" ldata="128,97" />
+<item label="(5/23)" id="5" page="5" resource="1-4-03/1-4-03_005" ext="jpg" ldata="128,97" />
+<item label="(6/23)" id="6" page="6" resource="1-4-03/1-4-03_006" ext="jpg" ldata="128,97" />
+<item label="(7/23)" id="7" page="7" resource="1-4-03/1-4-03_007" ext="jpg" ldata="128,97" />
+<item label="(8/23)" id="8" page="8" resource="1-4-03/1-4-03_008" ext="jpg" ldata="128,97" />
+<item label="(9/23)" id="9" page="9" resource="1-4-03/1-4-03_009" ext="jpg" ldata="128,97" />
+<item label="(10/23)" id="10" page="10" resource="1-4-03/1-4-03_010" ext="jpg" ldata="128,97" />
+<item label="(11/23)" id="11" page="11" resource="1-4-03/1-4-03_011" ext="jpg" ldata="128,97" />
+<item label="(12/23)" id="12" page="12" resource="1-4-03/1-4-03_012" ext="jpg" ldata="128,97" />
+<item label="(13/23)" id="13" page="13" resource="1-4-03/1-4-03_013" ext="jpg" ldata="128,97" />
+<item label="(14/23)" id="14" page="14" resource="1-4-03/1-4-03_014" ext="jpg" ldata="128,97" />
+<item label="(15/23)" id="15" page="15" resource="1-4-03/1-4-03_015" ext="jpg" ldata="128,97" />
+<item label="(16/23)" id="16" page="16" resource="1-4-03/1-4-03_016" ext="jpg" ldata="128,97" />
+<item label="(17/23)" id="17" page="17" resource="1-4-03/1-4-03_017" ext="jpg" ldata="128,97" />
+<item label="(18/23)" id="18" page="18" resource="1-4-03/1-4-03_018" ext="jpg" ldata="128,97" />
+<item label="(19/23)" id="19" page="19" resource="1-4-03/1-4-03_019" ext="jpg" ldata="128,97" />
+<item label="(20/23)" id="20" page="20" resource="1-4-03/1-4-03_020" ext="jpg" ldata="128,97" />
+<item label="(21/23)" id="21" page="21" resource="1-4-03/1-4-03_021" ext="jpg" ldata="128,97" />
+<item label="(22/23)" id="22" page="22" resource="1-4-03/1-4-03_022" ext="jpg" ldata="128,97" />
+<item label="(23/23)" id="23" page="23" resource="1-4-03/1-4-03_023" ext="jpg" ldata="128,97" />
+</item>

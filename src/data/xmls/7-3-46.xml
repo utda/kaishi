@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［7-3-46］ 天地丸之図" description="" dpi="-1" total="4">
+<item label="" id="1" page="1" resource="7-3-46/7-3-46" ext="fzp" ldata="128,65" />
+<item label="" id="2" page="2" resource="7-3-46/7-3-46_b" ext="fzp" ldata="128,65" />
+<item label="" id="3" page="3" resource="7-3-46/7-3-46_000" ext="fzp" ldata="44,128" />
+<item label="" id="4" page="4" resource="7-3-46/7-3-46_005" ext="fzp" ldata="128,96" />
+</item>

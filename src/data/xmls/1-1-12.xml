@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［1-1-12］ 盤尹流十二箇條問答之巻" description="" dpi="150" total="6">
+<item label="表紙 (1/6)" id="1" page="1" resource="1-1-12/1-1-12_001" ext="jpg" ldata="128,97" />
+<item label="(2/6)" id="2" page="2" resource="1-1-12/1-1-12_002" ext="jpg" ldata="128,97" />
+<item label="(3/6)" id="3" page="3" resource="1-1-12/1-1-12_003" ext="jpg" ldata="128,97" />
+<item label="(4/6)" id="4" page="4" resource="1-1-12/1-1-12_004" ext="jpg" ldata="128,97" />
+<item label="(5/6)" id="5" page="5" resource="1-1-12/1-1-12_005" ext="jpg" ldata="128,97" />
+<item label="(6/6)" id="6" page="6" resource="1-1-12/1-1-12_006" ext="jpg" ldata="128,97" />
+</item>

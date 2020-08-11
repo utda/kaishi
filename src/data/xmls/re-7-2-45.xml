@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［7-2-45］ 船図" description="" dpi="-1" total="3">
+<item label="表" id="1" page="1" resource="re-7-2-45/re-7-2-45a" ext="fzp" view="L" locator="50" ldata="128,12" />
+<item label="裏" id="2" page="2" resource="re-7-2-45/re-7-2-45b" ext="fzp" view="L" locator="50" align="left" ldata="128,12" />
+<item label="" id="3" page="3" resource="re-7-2-45/re-7-2-45_00" ext="fzp" ldata="121,128" />
+<item label="表・裏 1/6（連動）" id="4" page="4" resource="re-7-2-45/re-7-2-45a_1" ext="fzp" mirror="re-7-2-45/re-7-2-45b_1_reverse" init="mirror" view="" ldata="128,67" />
+<item label="表・裏 2/6（連動）" id="5" page="5" resource="re-7-2-45/re-7-2-45a_2" ext="fzp" mirror="re-7-2-45/re-7-2-45b_2_reverse" init="mirror" view="" ldata="128,63" />
+<item label="表・裏 3/6（連動）" id="6" page="6" resource="re-7-2-45/re-7-2-45a_3" ext="fzp" mirror="re-7-2-45/re-7-2-45b_3_reverse" init="mirror" view="" ldata="128,64" />
+<item label="表・裏 4/6（連動）" id="7" page="7" resource="re-7-2-45/re-7-2-45a_4" ext="fzp" mirror="re-7-2-45/re-7-2-45b_4_reverse" init="mirror" view="" ldata="128,64" />
+<item label="表・裏 5/6（連動）" id="8" page="8" resource="re-7-2-45/re-7-2-45a_5" ext="fzp" mirror="re-7-2-45/re-7-2-45b_5_reverse" init="mirror" view="" ldata="128,65" />
+<item label="表・裏 6/6（連動）" id="9" page="9" resource="re-7-2-45/re-7-2-45a_6" ext="fzp" mirror="re-7-2-45/re-7-2-45b_6_reverse" init="mirror" view="" ldata="128,65" />
+</item>

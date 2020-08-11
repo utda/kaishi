@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［7-2-22］ 小早八反帆" description="" dpi="-1" total="9">
+<item label="表紙 (1/9)" id="1" page="1" resource="7-2-22/7-2-22_000" ext="fzp" ldata="102,128" />
+<item label="(2/9)" id="2" page="2" resource="7-2-22/7-2-22_001" ext="fzp" ldata="128,91" />
+<item label="(3/9)" id="3" page="3" resource="7-2-22/7-2-22_002" ext="fzp" ldata="128,76" />
+<item label="(4/9)" id="4" page="4" resource="7-2-22/7-2-22_003" ext="fzp" ldata="128,76" />
+<item label="(5/9)" id="5" page="5" resource="7-2-22/7-2-22_004" ext="fzp" ldata="128,76" />
+<item label="(6/9)" id="6" page="6" resource="7-2-22/7-2-22_005" ext="fzp" ldata="128,76" />
+<item label="(7/9)" id="7" page="7" resource="7-2-22/7-2-22_006" ext="fzp" ldata="128,76" />
+<item label="(8/9)" id="8" page="8" resource="7-2-22/7-2-22_007" ext="fzp" ldata="128,76" />
+<item label="(9/9)" id="9" page="9" resource="7-2-22/7-2-22_008" ext="fzp" ldata="128,91" />
+</item>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［3-1-12］ 早船木割之事" description="" dpi="150" total="15">
+<item label="表紙 (1/15)" id="1" page="1" resource="3-1-12/3-1-12_001" ext="jpg" ldata="128,97" />
+<item label="(2/15)" id="2" page="2" resource="3-1-12/3-1-12_002" ext="jpg" ldata="128,97" />
+<item label="(3/15)" id="3" page="3" resource="3-1-12/3-1-12_003" ext="jpg" ldata="128,97" />
+<item label="(4/15)" id="4" page="4" resource="3-1-12/3-1-12_004" ext="jpg" ldata="128,97" />
+<item label="(5/15)" id="5" page="5" resource="3-1-12/3-1-12_005" ext="jpg" ldata="128,97" />
+<item label="(6/15)" id="6" page="6" resource="3-1-12/3-1-12_006" ext="jpg" ldata="128,97" />
+<item label="(7/15)" id="7" page="7" resource="3-1-12/3-1-12_007" ext="jpg" ldata="128,97" />
+<item label="(8/15)" id="8" page="8" resource="3-1-12/3-1-12_008" ext="jpg" ldata="128,97" />
+<item label="(9/15)" id="9" page="9" resource="3-1-12/3-1-12_009" ext="jpg" ldata="128,97" />
+<item label="(10/15)" id="10" page="10" resource="3-1-12/3-1-12_010" ext="jpg" ldata="128,97" />
+<item label="(11/15)" id="11" page="11" resource="3-1-12/3-1-12_011" ext="jpg" ldata="128,97" />
+<item label="(12/15)" id="12" page="12" resource="3-1-12/3-1-12_012" ext="jpg" ldata="128,97" />
+<item label="(13/15)" id="13" page="13" resource="3-1-12/3-1-12_013" ext="jpg" ldata="128,97" />
+<item label="(14/15)" id="14" page="14" resource="3-1-12/3-1-12_014" ext="jpg" ldata="128,97" />
+<item label="(15/15)" id="15" page="15" resource="3-1-12/3-1-12_015" ext="jpg" ldata="128,97" />
+</item>

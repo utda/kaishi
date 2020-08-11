@@ -1,0 +1,413 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://utda.github.io/kaishi/iiif/7-2-37/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "御召小鷹丸九反帆",
+  "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/4175962757e98cdc47a69ef5dbdcaafb4934f4ca.jpg",
+  "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+  "attribution": "東京大学駒場図書館 Komaba Library, The University of Tokyo, JAPAN",
+  "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+  "related": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/kaishi/document/10964d90-104e-9dca-4363-55e5a5e80402",
+  "seeAlso": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/api/items/445487",
+  "within": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/kaishi",
+  "metadata": [
+    {
+      "label": "タイトル/Title",
+      "value": "御召小鷹丸九反帆"
+    },
+    {
+      "label": "請求記号/Call No.",
+      "value": "7:2:37"
+    },
+    {
+      "label": "分類１/Category1",
+      "value": "大日本海志編纂資料"
+    },
+    {
+      "label": "分類2/Category2",
+      "value": "第七部門　絵画・図巻"
+    },
+    {
+      "label": "分類3/Category3",
+      "value": "二　図面"
+    },
+    {
+      "label": "分類4/Category4",
+      "value": "軍船"
+    },
+    {
+      "label": "コレクション / Collection",
+      "value": "大日本海志編纂資料"
+    },
+    {
+      "label": "所蔵図書館室 / Holding Library",
+      "value": "駒場図書館"
+    },
+    {
+      "label": "表示用順番(同一カテゴリ内)",
+      "value": "M7-2-3700"
+    },
+    {
+      "label": "備考/Comments",
+      "value": "起絵図"
+    },
+    {
+      "label": "identifier",
+      "value": "10964d90-104e-9dca-4363-55e5a5e80402"
+    },
+    {
+      "label": "Manifest Uri",
+      "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/10964d90-104e-9dca-4363-55e5a5e80402/manifest"
+    },
+    {
+      "label": "attributionLabel",
+      "value": "東京大学駒場図書館 Komaba Library, The University of Tokyo, JAPAN"
+    },
+    {
+      "label": "Database Label",
+      "value": "大日本海志編纂資料"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://utda.github.io/kaishi/iiif/7-2-37/sequence/normal",
+      "@type": "sc:Sequence",
+      "label": "Current Page Order",
+      "canvases": [
+        {
+          "@id": "https://utda.github.io/kaishi/iiif/7-2-37/canvas/p1",
+          "@type": "sc:Canvas",
+          "label": "[1]",
+          "width": 28000,
+          "height": 8014,
+          "images": [
+            {
+              "@id": "https://utda.github.io/kaishi/iiif/7-2-37/annotation/p0000-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_bs.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 28000,
+                "height": 8014,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_bs.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://utda.github.io/kaishi/iiif/7-2-37/canvas/p1"
+            },
+            {
+              "@id": "https://utda.github.io/kaishi/iiif/7-2-37/annotation/p0001-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://utda.github.io/kaishi/iiif/7-2-37/canvas/p1#xywh=16896,512,5632,7168,0",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_001_01.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 7168,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_001_01.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "width": 5632
+              }
+            },
+            {
+              "@id": "https://utda.github.io/kaishi/iiif/7-2-37/annotation/p0002-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://utda.github.io/kaishi/iiif/7-2-37/canvas/p1#xywh=14336,2048,5120,3584,0",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_002_01.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3584,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_002_01.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "width": 5120
+              }
+            },
+            {
+              "@id": "https://utda.github.io/kaishi/iiif/7-2-37/annotation/p0003-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://utda.github.io/kaishi/iiif/7-2-37/canvas/p1#xywh=15360,512,4096,6656,0",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_003_01.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6656,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_003_01.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "width": 4096
+              }
+            },
+            {
+              "@id": "https://utda.github.io/kaishi/iiif/7-2-37/annotation/p0004-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://utda.github.io/kaishi/iiif/7-2-37/canvas/p1#xywh=9216,2048,5632,3584,0",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_004_01.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3584,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_004_01.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "width": 5632
+              }
+            },
+            {
+              "@id": "https://utda.github.io/kaishi/iiif/7-2-37/annotation/p0005-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://utda.github.io/kaishi/iiif/7-2-37/canvas/p1#xywh=12288,2048,4608,3584,0",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_005_01.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3584,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_005_01.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "width": 4608
+              }
+            },
+            {
+              "@id": "https://utda.github.io/kaishi/iiif/7-2-37/annotation/p0006-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://utda.github.io/kaishi/iiif/7-2-37/canvas/p1#xywh=11264,0,6656,5632,0",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_006_01.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5632,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_006_01.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "width": 6656
+              }
+            },
+            {
+              "@id": "https://utda.github.io/kaishi/iiif/7-2-37/annotation/p0007-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://utda.github.io/kaishi/iiif/7-2-37/canvas/p1#xywh=11264,2048,6144,5120,0",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_007_01.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5120,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_007_01.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "width": 6144
+              }
+            },
+            {
+              "@id": "https://utda.github.io/kaishi/iiif/7-2-37/annotation/p0008-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://utda.github.io/kaishi/iiif/7-2-37/canvas/p1#xywh=7168,512,5632,4608,0",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_008_01.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4608,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_008_01.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "width": 5632
+              }
+            },
+            {
+              "@id": "https://utda.github.io/kaishi/iiif/7-2-37/annotation/p0009-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://utda.github.io/kaishi/iiif/7-2-37/canvas/p1#xywh=7680,2048,5120,5120,0",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_009_01.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5120,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_009_01.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "width": 5120
+              }
+            },
+            {
+              "@id": "https://utda.github.io/kaishi/iiif/7-2-37/annotation/p0010-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://utda.github.io/kaishi/iiif/7-2-37/canvas/p1#xywh=5632,2560,5120,2560,0",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_010_01.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2560,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_010_01.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "width": 5120
+              }
+            },
+            {
+              "@id": "https://utda.github.io/kaishi/iiif/7-2-37/annotation/p0011-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://utda.github.io/kaishi/iiif/7-2-37/canvas/p1#xywh=8192,2560,7168,2560,0",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_011_01.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2560,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_011_01.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "width": 7168
+              }
+            },
+            {
+              "@id": "https://utda.github.io/kaishi/iiif/7-2-37/annotation/p0012-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://utda.github.io/kaishi/iiif/7-2-37/canvas/p1#xywh=7680,2048,4096,3584,0",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_012_01.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3584,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_012_01.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "width": 4096
+              }
+            },
+            {
+              "@id": "https://utda.github.io/kaishi/iiif/7-2-37/annotation/p0013-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://utda.github.io/kaishi/iiif/7-2-37/canvas/p1#xywh=8704,2560,2048,2048,0",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_013_01.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2048,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_013_01.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "width": 2048
+              }
+            },
+            {
+              "@id": "https://utda.github.io/kaishi/iiif/7-2-37/annotation/p0014-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://utda.github.io/kaishi/iiif/7-2-37/canvas/p1#xywh=512,0,7168,7680,0",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_014_01.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 7680,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_014_01.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "width": 7168
+              }
+            },
+            {
+              "@id": "https://utda.github.io/kaishi/iiif/7-2-37/annotation/p0015-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://utda.github.io/kaishi/iiif/7-2-37/canvas/p1#xywh=2048,1024,6144,5632,0",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_015_01.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5632,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_015_01.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "width": 6144
+              }
+            },
+            {
+              "@id": "https://utda.github.io/kaishi/iiif/7-2-37/annotation/p0016-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://utda.github.io/kaishi/iiif/7-2-37/canvas/p1#xywh=3584,1024,4608,5632,0",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_016_01.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5632,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_016_01.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "width": 4608
+              }
+            },
+            {
+              "@id": "https://utda.github.io/kaishi/iiif/7-2-37/annotation/p0017-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://utda.github.io/kaishi/iiif/7-2-37/canvas/p1#xywh=2560,2048,3584,1536,0",
+              "resource": {
+                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_017_01.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1536,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-37_017_01.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "width": 3584
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

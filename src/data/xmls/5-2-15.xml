@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［5-2-15］ 掟書" description="" dpi="150" total="16">
+<item label="表紙 (1/16)" id="1" page="1" resource="5-2-15/5-2-15_001" ext="jpg" ldata="128,94" />
+<item label="(2/16)" id="2" page="2" resource="5-2-15/5-2-15_002" ext="jpg" ldata="128,97" />
+<item label="(3/16)" id="3" page="3" resource="5-2-15/5-2-15_003" ext="jpg" ldata="128,97" />
+<item label="(4/16)" id="4" page="4" resource="5-2-15/5-2-15_004" ext="jpg" ldata="128,97" />
+<item label="(5/16)" id="5" page="5" resource="5-2-15/5-2-15_005" ext="jpg" ldata="128,97" />
+<item label="(6/16)" id="6" page="6" resource="5-2-15/5-2-15_006" ext="jpg" ldata="128,97" />
+<item label="(7/16)" id="7" page="7" resource="5-2-15/5-2-15_007" ext="jpg" ldata="128,97" />
+<item label="(8/16)" id="8" page="8" resource="5-2-15/5-2-15_008" ext="jpg" ldata="128,97" />
+<item label="(9/16)" id="9" page="9" resource="5-2-15/5-2-15_009" ext="jpg" ldata="128,97" />
+<item label="(10/16)" id="10" page="10" resource="5-2-15/5-2-15_010" ext="jpg" ldata="128,97" />
+<item label="(11/16)" id="11" page="11" resource="5-2-15/5-2-15_011" ext="jpg" ldata="128,97" />
+<item label="(12/16)" id="12" page="12" resource="5-2-15/5-2-15_012" ext="jpg" ldata="128,97" />
+<item label="(13/16)" id="13" page="13" resource="5-2-15/5-2-15_013" ext="jpg" ldata="128,97" />
+<item label="(14/16)" id="14" page="14" resource="5-2-15/5-2-15_014" ext="jpg" ldata="128,97" />
+<item label="(15/16)" id="15" page="15" resource="5-2-15/5-2-15_015" ext="jpg" ldata="128,97" />
+<item label="(16/16)" id="16" page="16" resource="5-2-15/5-2-15_016" ext="jpg" ldata="128,97" />
+</item>

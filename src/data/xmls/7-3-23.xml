@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［7-3-23］ 御船調練之絵図" description="" dpi="-1" total="24">
+<item label="表紙 (1/24)" id="1" page="1" resource="7-3-23/7-3-23_000" ext="fzp" ldata="102,128" />
+<item label="(2/24)" id="2" page="2" resource="7-3-23/7-3-23_001" ext="fzp" ldata="128,76" />
+<item label="(3/24)" id="3" page="3" resource="7-3-23/7-3-23_002" ext="fzp" ldata="128,57" />
+<item label="(4/24)" id="4" page="4" resource="7-3-23/7-3-23_003" ext="fzp" ldata="128,76" />
+<item label="(5/24)" id="5" page="5" resource="7-3-23/7-3-23_004" ext="fzp" ldata="128,76" />
+<item label="(6/24)" id="6" page="6" resource="7-3-23/7-3-23_005" ext="fzp" ldata="128,76" />
+<item label="(7/24)" id="7" page="7" resource="7-3-23/7-3-23_006" ext="fzp" ldata="128,76" />
+<item label="(8/24)" id="8" page="8" resource="7-3-23/7-3-23_007" ext="fzp" ldata="128,76" />
+<item label="(9/24)" id="9" page="9" resource="7-3-23/7-3-23_008" ext="fzp" ldata="128,76" />
+<item label="(10/24)" id="10" page="10" resource="7-3-23/7-3-23_009" ext="fzp" ldata="128,76" />
+<item label="(11/24)" id="11" page="11" resource="7-3-23/7-3-23_010" ext="fzp" ldata="128,76" />
+<item label="(12/24)" id="12" page="12" resource="7-3-23/7-3-23_011" ext="fzp" ldata="128,76" />
+<item label="(13/24)" id="13" page="13" resource="7-3-23/7-3-23_012" ext="fzp" ldata="128,76" />
+<item label="(14/24)" id="14" page="14" resource="7-3-23/7-3-23_013" ext="fzp" ldata="128,76" />
+<item label="(15/24)" id="15" page="15" resource="7-3-23/7-3-23_014" ext="fzp" ldata="128,76" />
+<item label="(16/24)" id="16" page="16" resource="7-3-23/7-3-23_015" ext="fzp" ldata="128,81" />
+<item label="(17/24)" id="17" page="17" resource="7-3-23/7-3-23_016" ext="fzp" ldata="128,81" />
+<item label="(18/24)" id="18" page="18" resource="7-3-23/7-3-23_017" ext="fzp" ldata="128,66" />
+<item label="(19/24)" id="19" page="19" resource="7-3-23/7-3-23_018" ext="fzp" ldata="128,66" />
+<item label="(20/24)" id="20" page="20" resource="7-3-23/7-3-23_019" ext="fzp" ldata="128,76" />
+<item label="(21/24)" id="21" page="21" resource="7-3-23/7-3-23_020" ext="fzp" ldata="128,76" />
+<item label="(22/24)" id="22" page="22" resource="7-3-23/7-3-23_021" ext="fzp" ldata="128,76" />
+<item label="(23/24)" id="23" page="23" resource="7-3-23/7-3-23_022" ext="fzp" ldata="128,76" />
+<item label="(24/24)" id="24" page="24" resource="7-3-23/7-3-23_023" ext="fzp" ldata="128,76" />
+</item>

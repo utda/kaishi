@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［5-2-26］ 船法式書" description="" dpi="150" total="12">
+<item label="表紙 (1/12)" id="1" page="1" resource="5-2-26/5-2-26_001" ext="jpg" ldata="128,94" />
+<item label="(2/12)" id="2" page="2" resource="5-2-26/5-2-26_002" ext="jpg" ldata="128,97" />
+<item label="(3/12)" id="3" page="3" resource="5-2-26/5-2-26_003" ext="jpg" ldata="128,97" />
+<item label="(4/12)" id="4" page="4" resource="5-2-26/5-2-26_004" ext="jpg" ldata="128,97" />
+<item label="(5/12)" id="5" page="5" resource="5-2-26/5-2-26_005" ext="jpg" ldata="128,97" />
+<item label="(6/12)" id="6" page="6" resource="5-2-26/5-2-26_006" ext="jpg" ldata="128,97" />
+<item label="(7/12)" id="7" page="7" resource="5-2-26/5-2-26_007" ext="jpg" ldata="128,97" />
+<item label="(8/12)" id="8" page="8" resource="5-2-26/5-2-26_008" ext="jpg" ldata="128,97" />
+<item label="(9/12)" id="9" page="9" resource="5-2-26/5-2-26_009" ext="jpg" ldata="128,97" />
+<item label="(10/12)" id="10" page="10" resource="5-2-26/5-2-26_010" ext="jpg" ldata="128,97" />
+<item label="(11/12)" id="11" page="11" resource="5-2-26/5-2-26_011" ext="jpg" ldata="128,97" />
+<item label="(12/12)" id="12" page="12" resource="5-2-26/5-2-26_012" ext="jpg" ldata="128,97" />
+</item>

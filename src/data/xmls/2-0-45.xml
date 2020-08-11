@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［2-0-45］ 井楼伝" description="" dpi="150" total="4">
+<item label="表紙 (1/4)" id="1" page="1" resource="2-0-45/2-0-45_001" ext="jpg" ldata="128,97" />
+<item label="(2/4)" id="2" page="2" resource="2-0-45/2-0-45_002" ext="jpg" ldata="128,97" />
+<item label="(3/4)" id="3" page="3" resource="2-0-45/2-0-45_003" ext="jpg" ldata="128,97" />
+<item label="(4/4)" id="4" page="4" resource="2-0-45/2-0-45_004" ext="jpg" ldata="128,97" />
+</item>

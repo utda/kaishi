@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［1-7-05］ 甲州流本伝" description="" dpi="150" total="18">
+<item label="表紙 (1/18)" id="1" page="1" resource="1-7-05/1-7-05_001" ext="jpg" ldata="128,97" />
+<item label="(2/18)" id="2" page="2" resource="1-7-05/1-7-05_002" ext="jpg" ldata="128,97" />
+<item label="(3/18)" id="3" page="3" resource="1-7-05/1-7-05_003" ext="jpg" ldata="128,97" />
+<item label="(4/18)" id="4" page="4" resource="1-7-05/1-7-05_004" ext="jpg" ldata="128,97" />
+<item label="(5/18)" id="5" page="5" resource="1-7-05/1-7-05_005" ext="jpg" ldata="128,97" />
+<item label="(6/18)" id="6" page="6" resource="1-7-05/1-7-05_006" ext="jpg" ldata="128,97" />
+<item label="(7/18)" id="7" page="7" resource="1-7-05/1-7-05_007" ext="jpg" ldata="128,97" />
+<item label="(8/18)" id="8" page="8" resource="1-7-05/1-7-05_008" ext="jpg" ldata="128,97" />
+<item label="(9/18)" id="9" page="9" resource="1-7-05/1-7-05_009" ext="jpg" ldata="128,97" />
+<item label="(10/18)" id="10" page="10" resource="1-7-05/1-7-05_010" ext="jpg" ldata="128,97" />
+<item label="(11/18)" id="11" page="11" resource="1-7-05/1-7-05_011" ext="jpg" ldata="128,97" />
+<item label="(12/18)" id="12" page="12" resource="1-7-05/1-7-05_012" ext="jpg" ldata="128,97" />
+<item label="(13/18)" id="13" page="13" resource="1-7-05/1-7-05_013" ext="jpg" ldata="128,97" />
+<item label="(14/18)" id="14" page="14" resource="1-7-05/1-7-05_014" ext="jpg" ldata="128,97" />
+<item label="(15/18)" id="15" page="15" resource="1-7-05/1-7-05_015" ext="jpg" ldata="128,97" />
+<item label="(16/18)" id="16" page="16" resource="1-7-05/1-7-05_016" ext="jpg" ldata="128,97" />
+<item label="(17/18)" id="17" page="17" resource="1-7-05/1-7-05_017" ext="jpg" ldata="128,97" />
+<item label="(18/18)" id="18" page="18" resource="1-7-05/1-7-05_018" ext="jpg" ldata="128,97" />
+</item>

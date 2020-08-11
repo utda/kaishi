@@ -1,0 +1,45 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://utda.github.io/kaishi/iiif/top.json",
+  "@type": "sc:Collection",
+  "attribution": "大日本海志編纂資料「起絵図」",
+  "manifests": [
+    {
+      "@id": "https://utda.github.io/kaishi/iiif/7-2-24/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "泰平丸起絵図",
+      "thumbnail" : "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/square/bc0f0b7eae39dc7b697ffe7a3bbd8e17dc40db8e.jpg"
+    },
+    {
+      "@id": "https://utda.github.io/kaishi/iiif/7-2-30/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "御召万歳丸腹形",
+      "thumbnail" : "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/square/1aad0c8f97ef4de57a3896ac0921e0172f6d39be.jpg"
+    },
+    {
+      "@id": "https://utda.github.io/kaishi/iiif/7-2-32/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "御召住吉丸起シ絵図",
+      "thumbnail" : "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/square/f404eec8149326c6fcc1e68c3af0c1ac3102c8a8.jpg"
+    },
+    {
+      "@id": "https://utda.github.io/kaishi/iiif/7-2-37/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "御召小鷹丸九反帆",
+      "thumbnail" : "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/square/4175962757e98cdc47a69ef5dbdcaafb4934f4ca.jpg"
+    },
+    {
+      "@id": "https://utda.github.io/kaishi/iiif/7-2-45/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "春日丸",
+      "thumbnail" : "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/square/8ae0b890e3521c42e80511b126ceb6f822413b86.jpg"
+    },
+    {
+      "@id": "https://utda.github.io/kaishi/iiif/7-2-47/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "船図",
+      "thumbnail" : "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/square/e5bf9f5e1258f933f051f5de770d28b6021748a6.jpg"
+    }
+  ],
+  "vhint": "use-thumb"
+}

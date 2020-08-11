@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［5-1-09］ 今井元長浦船軍紀" description="" dpi="150" total="13">
+<item label="表紙 (1/13)" id="1" page="1" resource="5-1-09/5-1-09_001" ext="jpg" ldata="128,97" />
+<item label="(2/13)" id="2" page="2" resource="5-1-09/5-1-09_002" ext="jpg" ldata="128,97" />
+<item label="(3/13)" id="3" page="3" resource="5-1-09/5-1-09_003" ext="jpg" ldata="128,97" />
+<item label="(4/13)" id="4" page="4" resource="5-1-09/5-1-09_004" ext="jpg" ldata="128,97" />
+<item label="(5/13)" id="5" page="5" resource="5-1-09/5-1-09_005" ext="jpg" ldata="128,97" />
+<item label="(6/13)" id="6" page="6" resource="5-1-09/5-1-09_006" ext="jpg" ldata="128,97" />
+<item label="(7/13)" id="7" page="7" resource="5-1-09/5-1-09_007" ext="jpg" ldata="128,97" />
+<item label="(8/13)" id="8" page="8" resource="5-1-09/5-1-09_008" ext="jpg" ldata="128,97" />
+<item label="(9/13)" id="9" page="9" resource="5-1-09/5-1-09_009" ext="jpg" ldata="128,97" />
+<item label="(10/13)" id="10" page="10" resource="5-1-09/5-1-09_010" ext="jpg" ldata="128,97" />
+<item label="(11/13)" id="11" page="11" resource="5-1-09/5-1-09_011" ext="jpg" ldata="128,97" />
+<item label="(12/13)" id="12" page="12" resource="5-1-09/5-1-09_012" ext="jpg" ldata="128,97" />
+<item label="(13/13)" id="13" page="13" resource="5-1-09/5-1-09_013" ext="jpg" ldata="128,97" />
+</item>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［2-0-34］ 艦法一簣矢場相図之伝" description="" dpi="150" total="8">
+<item label="表紙 (1/8)" id="1" page="1" resource="2-0-34/2-0-34_001" ext="jpg" ldata="128,97" />
+<item label="(2/8)" id="2" page="2" resource="2-0-34/2-0-34_002" ext="jpg" ldata="128,97" />
+<item label="(3/8)" id="3" page="3" resource="2-0-34/2-0-34_003" ext="jpg" ldata="128,97" />
+<item label="(4/8)" id="4" page="4" resource="2-0-34/2-0-34_004" ext="jpg" ldata="128,97" />
+<item label="(5/8)" id="5" page="5" resource="2-0-34/2-0-34_005" ext="jpg" ldata="128,97" />
+<item label="(6/8)" id="6" page="6" resource="2-0-34/2-0-34_006" ext="jpg" ldata="128,97" />
+<item label="(7/8)" id="7" page="7" resource="2-0-34/2-0-34_007" ext="jpg" ldata="128,97" />
+<item label="(8/8)" id="8" page="8" resource="2-0-34/2-0-34_008" ext="jpg" ldata="128,97" />
+</item>

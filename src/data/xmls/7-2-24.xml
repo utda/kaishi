@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［7-2-24］ 泰平丸起絵図" description="" dpi="-1" total="5">
+<item label="" id="1" page="1" resource="7-2-24/7-2-24_bs" ext="fzp" view="P" map="layered" data="0,0,13824,7680,0" ldata="128,71">
+	<item map="layered" id="1" name="blanc" ext="jpg" locate="0,0,10,10,0" hold="" />
+	<item map="layered" id="2" name="7-2-24_001_1" ext="fzp" locate="0,1536,5632,4608,0" hold="" />
+	<item map="layered" id="3" name="7-2-24_001_2" ext="fzp" locate="5632,1024,3072,3584,0" hold="2" />
+	<item map="layered" id="4" name="7-2-24_001_3" ext="fzp" locate="9728,4608,3072,1536,0" hold="2,3" />
+	<item map="layered" id="5" name="7-2-24_002_1" ext="fzp" locate="6144,0,2048,4096,0" hold="2" />
+	<item map="layered" id="6" name="7-2-24_002_2" ext="fzp" locate="8192,4608,4096,1536,0" hold="2" />
+	<item map="layered" id="7" name="7-2-24_003_1" ext="fzp" locate="4608,0,3584,4096,0" hold="2,6" />
+	<item map="layered" id="8" name="7-2-24_004_1" ext="fzp" locate="4608,0,3584,4096,0" hold="2,6" />
+	<item map="layered" id="9" name="7-2-24_005_1" ext="fzp" locate="4608,0,3584,4096,0" hold="2,6" />
+	<item map="layered" id="10" name="7-2-24_006_1" ext="fzp" locate="4608,0,4608,4096,0" hold="2,6" />
+	<item map="layered" id="11" name="7-2-24_007_1" ext="fzp" locate="4608,0,4096,3584,0" hold="2,6,10" />
+	<item map="layered" id="12" name="7-2-24_008_1" ext="fzp" locate="4608,0,7680,4096,0" hold="2,6" />
+	<item map="layered" id="13" name="7-2-24_009_1" ext="fzp" locate="9728,512,2048,3072,0" hold="2,6,12" />
+	<item map="layered" id="14" name="7-2-24_010_1" ext="fzp" locate="9216,512,3072,3584,0" hold="2,6,12" />
+	<item map="layered" id="15" name="7-2-24_011_1" ext="fzp" locate="8192,2048,4096,2058,0" hold="2,6,12,13" />
+	<item map="layered" id="16" name="7-2-24_012_1" ext="fzp" locate="9216,512,2560,3584,0" hold="2,6,12,15" />
+</item>
+<item label="" id="2" page="2" resource="7-2-24/7-2-24_000" ext="fzp" ldata="96,128" />
+<item label="ベース" id="3" page="3" resource="7-2-24/7-2-24" ext="fzp" ldata="128,75" />
+<item label="パーツ表" id="4" page="4" resource="7-2-24/7-2-24_P_001" ext="fzp" ldata="128,97" />
+<item label="パーツ裏" id="5" page="5" resource="7-2-24/7-2-24_P_002" ext="fzp" ldata="128,97" />
+</item>

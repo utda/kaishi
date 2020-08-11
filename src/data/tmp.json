@@ -1,0 +1,268 @@
+
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/112929/manifest",
+	"@type": "sc:Manifest",
+	"label": "［7-2-32］ 御召住吉丸起シ絵図",
+	"sequences": [
+		{
+			"@id": "https://dzkimgs.l.u-tokyo.ac.jp/zuzoubu/12b02/sequence.json",
+			"@type": "sc:Sequence",
+			"label": "Current Page Order",
+			"canvases": [
+				{
+					"@id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/p0024",
+					"@type": "sc:Canvas",
+					"label": "[1]",
+					"width": 28000,
+					"height": 8379,
+					"images": [
+						{
+							"@id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/ano0024",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_bs.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 28000,
+								"height": 8379,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_bs.tif",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/p0024"
+						},
+						{
+							"@id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/01/ano1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/p0024#xywh=0,0,10240,8379,0",
+							"resource": {
+								"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_002_1.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 8379,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_002_1.tif",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								},
+								"width": 10240
+							}
+						},
+						{
+							"@id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/01/ano2",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/p0024#xywh=1536,2560,4096,2048,0",
+							"resource": {
+								"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_003_1.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2048,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_003_1.tif",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								},
+								"width": 4096
+							}
+						},
+						{
+							"@id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/01/ano3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/p0024#xywh=2560,1024,5120,6656,0",
+							"resource": {
+								"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_004_1.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 6656,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_004_1.tif",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								},
+								"width": 5120
+							}
+						},
+						{
+							"@id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/01/ano4",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/p0024#xywh=14848,3072,1536,2048,0",
+							"resource": {
+								"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_001_1.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2048,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_001_1.tif",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								},
+								"width": 1536
+							}
+						},
+						{
+							"@id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/01/ano5",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/p0024#xywh=13312,512,1536,2048,0",
+							"resource": {
+								"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_001_2.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2048,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_001_2.tif",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								},
+								"width": 1536
+							}
+						},
+						{
+							"@id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/01/ano6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/p0024#xywh=13824,5120,1024,2048,0",
+							"resource": {
+								"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_001_3.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2048,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_001_3.tif",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								},
+								"width": 1024
+							}
+						},
+						{
+							"@id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/01/ano7",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/p0024#xywh=9216,0,1536,2560,0",
+							"resource": {
+								"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_001_4.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2560,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_001_4.tif",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								},
+								"width": 1536
+							}
+						},
+						{
+							"@id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/01/ano8",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/p0024#xywh=9216,5632,1536,2048,0",
+							"resource": {
+								"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_001_5.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2048,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_001_5.tif",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								},
+								"width": 1536
+							}
+						}
+					]
+                },
+                {
+					"@id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/p0024/2",
+					"@type": "sc:Canvas",
+					"label": "[2]",
+                    "width": 2637,
+                    "height": 3507,
+					"images": [
+						{
+							"@id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/ano0024/2",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_000.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+                                "width": 2637,
+                                "height": 3507,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_000.tif",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/p0024/2"
+                        }
+                    ]
+                },
+                {
+					"@id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/p0024/3",
+					"@type": "sc:Canvas",
+					"label": "ベース",
+                    "width": 27844,
+                    "height": 8618,
+					"images": [
+						{
+							"@id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/ano0024/3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+                                "width": 27844,
+                                "height": 8618,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32.tif",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/p0024/3"
+                        }
+                    ]
+                },
+                {
+					"@id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/p0024/4",
+					"@type": "sc:Canvas",
+					"label": "パーツ",
+                    "width": 6438,
+                    "height": 7628,
+					"images": [
+						{
+							"@id": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/ano0024/4",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_P_001.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+                                "width": 6438,
+                                "height": 7628,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/images/7-2-32_P_001.tif",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://dzkimgs.l.u-tokyo.ac.jp/iiif/zuzoubu/03/p0024/4"
+                        }
+                    ]
+                }
+			]
+		}
+	]
+}

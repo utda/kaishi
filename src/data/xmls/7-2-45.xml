@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［7-2-46］ 春日丸" description="" dpi="-1" total="4">
+<item label="" id="1" page="1" resource="7-2-45/7-2-45_bs" ext="fzp" view="P" map="layered" data="0,0,15360,5632,0" ldata="128,47">
+	<item map="layered" id="1" name="blanc" ext="jpg" locate="0,0,10,10,0" hold="" />
+	<item map="layered" id="2" name="7-2-45_001_1" ext="fzp" locate="12800,512,2560,4608,0" hold="" />
+	<item map="layered" id="3" name="7-2-45_002_1" ext="fzp" locate="6144,0,6144,5120,0" hold="" />
+	<item map="layered" id="4" name="7-2-45_003_1" ext="fzp" locate="10240,2048,3072,2560,0" hold="3" />
+	<item map="layered" id="5" name="7-2-45_004_1" ext="fzp" locate="6144,0,2560,2560,0" hold="" />
+	<item map="layered" id="6" name="7-2-45_005_1" ext="fzp" locate="6144,0,2560,2560,0" hold="" />
+	<item map="layered" id="7" name="7-2-45_006_1" ext="fzp" locate="6144,0,2560,2560,0" hold="" />
+	<item map="layered" id="8" name="7-2-45_007_1" ext="fzp" locate="6144,0,3072,2560,0" hold="" />
+	<item map="layered" id="9" name="7-2-45_004_2" ext="fzp" locate="6144,3072,3072,2048,0" hold="" />
+	<item map="layered" id="10" name="7-2-45_008_1" ext="fzp" locate="6144,0,3072,4096,0" hold="9" />
+	<item map="layered" id="11" name="7-2-45_009_1" ext="fzp" locate="3584,0,5632,5120,0" hold="" />
+	<item map="layered" id="12" name="7-2-45_010_1" ext="fzp" locate="3072,512,4096,3584,0" hold="11" />
+</item>
+<item label="" id="2" page="2" resource="7-2-45/7-2-45_000" ext="fzp" ldata="96,128" />
+<item label="ベース" id="3" page="3" resource="7-2-45/7-2-45" ext="fzp" ldata="128,45" />
+<item label="パーツ" id="4" page="4" resource="7-2-45/7-2-45_P_001" ext="fzp" ldata="128,69" />
+</item>

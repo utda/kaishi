@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item label="/" id="0" title="［7-2-48］ 船図" description="" dpi="-1" total="1">
+<item label="" id="1" page="1" resource="7-2-47/7-2-47_bs" ext="fzp" view="P" map="layered" data="0,0,15360,5632,0" ldata="128,40">
+	<item map="layered" id="1" name="blanc" ext="jpg" locate="0,0,10,10,0" hold="" />
+	<item map="layered" id="2" name="7-2-47_006_1" ext="fzp" locate="2560,512,3072,4096,0" hold="" />
+	<item map="layered" id="3" name="7-2-47_005_1" ext="fzp" locate="2560,512,5120,4608,0" hold="" />
+	<item map="layered" id="4" name="7-2-47_008_1" ext="fzp" locate="0,0,5120,5537,0" hold="3" />
+	<item map="layered" id="5" name="7-2-47_036_1" ext="fzp" locate="1536,0,3584,5120,0" hold="3,4" />
+	<item map="layered" id="6" name="7-2-47_037_1" ext="fzp" locate="1024,0,4096,5120,0" hold="3,4" />
+	<item map="layered" id="7" name="7-2-47_009_1" ext="fzp" locate="1024,0,4096,5120,0" hold="3,4" />
+	<item map="layered" id="8" name="7-2-47_010_1" ext="fzp" locate="2560,0,2048,5120,0" hold="3,4,7" />
+	<item map="layered" id="9" name="7-2-47_011_1" ext="fzp" locate="2560,0,1536,5120,0" hold="3,4,7" />
+	<item map="layered" id="10" name="7-2-47_012_1" ext="fzp" locate="7680,0,1536,3584,0" hold="3,4" />
+	<item map="layered" id="11" name="7-2-47_013_1" ext="fzp" locate="8192,0,1536,3584,0" hold="3,4" />
+	<item map="layered" id="12" name="7-2-47_014_1" ext="fzp" locate="6144,1536,4096,2560,0" hold="3,4" />
+	<item map="layered" id="13" name="7-2-47_015_1" ext="fzp" locate="5632,1536,3584,3584,0" hold="3,4,12" />
+	<item map="layered" id="14" name="7-2-47_016_1" ext="fzp" locate="5120,2560,4608,2560,0" hold="3,4,12,13" />
+	<item map="layered" id="15" name="7-2-47_017_1" ext="fzp" locate="7168,0,4096,5120,0" hold="3,4" />
+	<item map="layered" id="16" name="7-2-47_018_1" ext="fzp" locate="7680,1024,2048,3584,0" hold="3,4,15" />
+	<item map="layered" id="17" name="7-2-47_019_1" ext="fzp" locate="9216,512,1536,3072,0" hold="3,4,15,16" />
+	<item map="layered" id="18" name="7-2-47_020_1" ext="fzp" locate="7168,0,4096,2560,0" hold="3,4,15,16" />
+	<item map="layered" id="19" name="7-2-47_021_1" ext="fzp" locate="6656,3072,4096,1024,0" hold="3,4,15" />
+	<item map="layered" id="20" name="7-2-47_022_1" ext="fzp" locate="7168,512,4608,3584,0" hold="3,4,15" />
+	<item map="layered" id="21" name="7-2-47_024_1" ext="fzp" locate="7168,512,5632,4096,0" hold="3,4,15" />
+	<item map="layered" id="22" name="7-2-47_025_1" ext="fzp" locate="9728,2048,3072,1024,0" hold="3,4,15,21" />
+	<item map="layered" id="23" name="7-2-47_027_1" ext="fzp" locate="7168,0,5632,5120,0" hold="3,4" />
+	<item map="layered" id="24" name="7-2-47_028_1" ext="fzp" locate="8192,1536,3072,2048,0" hold="3,4,23" />
+	<item map="layered" id="25" name="7-2-47_029_1" ext="fzp" locate="8704,0,5632,5120,0" hold="3,4,23,24" />
+	<item map="layered" id="26" name="7-2-47_031_1" ext="fzp" locate="11776,1024,3072,3072,0" hold="3,4,23,24,25" />
+	<item map="layered" id="27" name="7-2-47_032_1" ext="fzp" locate="10752,512,4096,4096,0" hold="3,4,23,24,25" />
+	<item map="layered" id="28" name="7-2-47_033_1" ext="fzp" locate="10240,512,4608,4096,0" hold="3,4,23,24,25" />
+	<item map="layered" id="29" name="7-2-47_034_1" ext="fzp" locate="10752,512,4096,4096,0" hold="3,4,23,24,25" />
+	<item map="layered" id="30" name="7-2-47_035_1" ext="fzp" locate="12288,1024,3072,3072,0" hold="3,4,23,24,25,29" />
+</item>
+</item>
