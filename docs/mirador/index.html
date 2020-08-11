@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="mirador/css/mirador-combined.css"
+    />
+    <title>Mirador Viewer</title>
+    <style type="text/css">
+      #viewer {
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="viewer"></div>
+
+    <script src="mirador/mirador.min.js"></script>
+    <script type="text/javascript">
+      var windowObjects = [];
+
+      $(function () {
+        var vars = {};
+        var param = location.search.substring(1).split("&");
+        for (var i = 0; i < param.length; i++) {
+          var keySearch = param[i].search(/=/);
+          var key = "";
+          if (keySearch != -1) key = param[i].slice(0, keySearch);
+          var val = param[i].slice(param[i].indexOf("=", 0) + 1);
+          if (key != "") vars[key] = decodeURI(val);
+        }
+
+        var bottomPanel =
+          vars["bottomPanel"] && vars["bottomPanel"] == "false" ? false : true;
+
+        var data = new Array();
+
+        if (vars["manifest"]) {
+          var manifests = vars["manifest"];
+          var array = manifests.split(";");
+
+          for (var i = 0; i < array.length; i++) {
+            var manifest = decodeURIComponent(array[i]);
+            var obj = new Object();
+            obj["loadedManifest"] = manifest;
+            obj["viewType"] = "ImageView";
+            if (vars["canvas"]) {
+              obj["canvasID"] = vars["canvas"];
+            }
+            obj["bottomPanel"] = bottomPanel;
+            windowObjects.push(obj);
+
+            var obj = new Object();
+            obj["manifestUri"] = manifest;
+            data.push(obj);
+          }
+
+          layout = "1x" + array.length;
+        } else {
+          layout = "1x1";
+        }
+        var windowSettings = new Object();
+        if (vars["annotationState"] == "on") {
+          windowSettings["canvasControls"] = {
+            annotations: {
+              annotationState: "on",
+              annotationCreation: true,
+            },
+          };
+        }
+
+        var sidePanelOptions = {
+            tocTabAvailable: false,
+            layersTabAvailable: true,
+            searchTabAvailable: true,
+          };
+
+        let config = {
+          id: "viewer",
+          layout: layout,
+          data: data,
+          buildPath: "mirador/",
+          windowObjects: windowObjects,
+          windowSettings: windowSettings,
+          annotationEndpoint: {
+            name: "Local Storage",
+            module: "LocalStorageEndpoint",
+          },
+          sidePanelOptions: sidePanelOptions,
+          mainMenuSettings: {
+            userButtons: [
+              {
+                label: "Play",
+                iconClass: "fa fa-play",
+                attributes: { onclick: "start()" },
+              },
+              {
+                label: "Stop",
+                iconClass: "fa fa-stop",
+                attributes: { onclick: "stop()" },
+              },
+              {
+                label: "Check All",
+                iconClass: "fa fa-check-square",
+                attributes: { onclick: "check_all()" },
+              },
+              {
+                label: "Clear",
+                iconClass: "fa fa-square",
+                attributes: { onclick: "clear_all()" },
+              },
+            ],
+          },
+        };
+
+        miradorInstance = Mirador(config);
+      });
+
+      var id = null
+
+      function start() {
+
+        clear_all()
+
+        const checks = $(".visibility-toggle")
+
+        var count = 0;
+        var countup = function(){
+          const check = $(checks[count])
+          if(!check.prop("checked")){
+            check.click()
+          }
+          //count += 1
+          console.log(count ++, checks.length)
+        }
+
+        id = setInterval(function(){
+        countup();
+        if(count > checks.length){　
+          clearInterval(id);
+
+          start()
+        }}, 500);
+      }
+
+      function stop(){
+        clearInterval(id)
+      }
+
+      function check_all(){
+        const checks = $(".visibility-toggle")
+        for(let i = 0; i < checks.length; i++){
+          const check = $(checks[i])
+          if(!check.prop("checked")){
+            check.click()
+          }
+        }
+      }
+
+      function clear_all(){
+        const checks = $(".visibility-toggle")
+        for(let i = 1; i < checks.length; i++){
+          const check = $(checks[i])
+          if(check.prop("checked")){
+            check.click()
+          }
+        }
+      }
+    </script>
+  </body>
+</html>

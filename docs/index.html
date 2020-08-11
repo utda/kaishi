@@ -8,6 +8,7 @@
   <!-- Bootstrap core CSS -->
   <!-- CSS only -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
   <!-- JS, Popper.js, and jQuery -->
   <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
@@ -71,7 +72,7 @@
         
         <h1>「起絵図」のIIIF実装</h1>
         <p class="lead text-muted">東京大学駒場図書館所蔵 大日本海志編纂資料</p>
-        <iframe class="mt-5" width="100%" height="400" src="https://www.youtube.com/embed/EHHIsSdcwoQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="mt-5" width="100%" height="400" src="https://www.youtube.com/embed/aDwMzalPIxY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
     </section>
 
@@ -81,6 +82,9 @@
         <p class="lead">「起絵図（おこしえず）」は、平面図を描いた台紙に、壁面や天井の図を貼り付け、建物の立体的な構造を再現する折畳式の簡易模型です。とくに小さな空間に複雑な立体構造を持つ茶室の再現に適した図法として活用されました。（<a href="https://www.tnm.jp/modules/r_free_page/index.php?id=381">東京国立博物館 - 展示 日本美術（本館） 日本の博物学シリーズ　起絵図</a>より）</p> 
         <p class="lead">
           本サイトでは、東京大学駒場図書館所蔵「大日本海志編纂資料」の起絵図について、IIIFのレイヤー機能を使った表現例を紹介します。
+        </p>
+        <p class="lead">
+          ビューアを開き、画面上部の「 <i class="fa fa-play"></i> Play 」を押してください。
         </p>
         <div class="row mt-5" id="main">
           
@@ -115,9 +119,13 @@
         let card = $('<div class="card mb-4 shadow-sm">')
         col.append(card)
 
+        let a = $("<a>")
+        card.append(a)
+        a.attr("href", "mirador/?manifest=" + obj["@id"])
+
         let img = $('<img class="card-img-top" width="100%">')
         img.attr("src", obj.thumbnail)
-        card.append(img)
+        a.append(img)
 
         let body = $('<div class="card-body">')
         card.append(body)
@@ -134,7 +142,7 @@
 
         let btn = $('<a type="button" class="btn btn-sm btn-outline-secondary">')
         group.append(btn)
-        btn.attr("href", "http://da.dl.itc.u-tokyo.ac.jp/mirador/?manifest=" + obj["@id"]+"&sidePanelOptions=on")
+        btn.attr("href", "mirador/?manifest=" + obj["@id"])
         btn.append("閲覧する")
       }
     })
