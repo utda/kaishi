@@ -3,13 +3,13 @@
   "@id": "https://utda.github.io/kaishi/iiif/7-2-32/manifest.json",
   "@type": "sc:Manifest",
   "label": "御召住吉丸起シ絵図",
-  "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/f404eec8149326c6fcc1e68c3af0c1ac3102c8a8.jpg",
+  "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/HDD1/TIFF/7-2-32/7-2-32_000.tif/full/!200,200/0/default.jpg",
   "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
   "attribution": "東京大学駒場図書館 Komaba Library, The University of Tokyo, JAPAN",
   "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
-  "related": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/kaishi/document/83404b4f-9a28-47b8-6f2c-e36e01b41a9e",
-  "seeAlso": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/api/items/445482",
-  "within": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/kaishi",
+  "related": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/83404b4f-9a28-47b8-6f2c-e36e01b41a9e",
+  "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/83404b4f-9a28-47b8-6f2c-e36e01b41a9e?_format=json",
+  "within": "https://da.dl.itc.u-tokyo.ac.jp/portal/collection/kaishi",
   "metadata": [
     {
       "label": "タイトル/Title",
@@ -57,7 +57,7 @@
     },
     {
       "label": "Manifest Uri",
-      "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/83404b4f-9a28-47b8-6f2c-e36e01b41a9e/manifest"
+      "value": "https://da.dl.itc.u-tokyo.ac.jp/portal/repo/iiif/83404b4f-9a28-47b8-6f2c-e36e01b41a9e/manifest"
     },
     {
       "label": "attributionLabel",

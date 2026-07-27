@@ -3,13 +3,13 @@
   "@id": "https://utda.github.io/kaishi/iiif/7-2-37/manifest.json",
   "@type": "sc:Manifest",
   "label": "御召小鷹丸九反帆",
-  "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/4175962757e98cdc47a69ef5dbdcaafb4934f4ca.jpg",
+  "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/HDD1/TIFF/7-2-37/7-2-37_000.tif/full/!200,200/0/default.jpg",
   "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
   "attribution": "東京大学駒場図書館 Komaba Library, The University of Tokyo, JAPAN",
   "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
-  "related": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/kaishi/document/10964d90-104e-9dca-4363-55e5a5e80402",
-  "seeAlso": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/api/items/445487",
-  "within": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/kaishi",
+  "related": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/10964d90-104e-9dca-4363-55e5a5e80402",
+  "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/10964d90-104e-9dca-4363-55e5a5e80402?_format=json",
+  "within": "https://da.dl.itc.u-tokyo.ac.jp/portal/collection/kaishi",
   "metadata": [
     {
       "label": "タイトル/Title",
@@ -57,7 +57,7 @@
     },
     {
       "label": "Manifest Uri",
-      "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/10964d90-104e-9dca-4363-55e5a5e80402/manifest"
+      "value": "https://da.dl.itc.u-tokyo.ac.jp/portal/repo/iiif/10964d90-104e-9dca-4363-55e5a5e80402/manifest"
     },
     {
       "label": "attributionLabel",

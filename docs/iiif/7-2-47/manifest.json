@@ -3,13 +3,13 @@
   "@id": "https://utda.github.io/kaishi/iiif/7-2-47/manifest.json",
   "@type": "sc:Manifest",
   "label": "船図",
-  "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/e5bf9f5e1258f933f051f5de770d28b6021748a6.jpg",
+  "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/HDD1/TIFF/7-2-47/7-2-47.tif/full/!200,200/0/default.jpg",
   "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
   "attribution": "東京大学駒場図書館 Komaba Library, The University of Tokyo, JAPAN",
   "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
-  "related": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/kaishi/document/ed079294-4692-5352-19d9-32e6f28e830d",
-  "seeAlso": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/api/items/445498",
-  "within": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/kaishi",
+  "related": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/ed079294-4692-5352-19d9-32e6f28e830d",
+  "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/ed079294-4692-5352-19d9-32e6f28e830d?_format=json",
+  "within": "https://da.dl.itc.u-tokyo.ac.jp/portal/collection/kaishi",
   "metadata": [
     {
       "label": "タイトル/Title",
@@ -61,7 +61,7 @@
     },
     {
       "label": "Manifest Uri",
-      "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/ed079294-4692-5352-19d9-32e6f28e830d/manifest"
+      "value": "https://da.dl.itc.u-tokyo.ac.jp/portal/repo/iiif/ed079294-4692-5352-19d9-32e6f28e830d/manifest"
     },
     {
       "label": "attributionLabel",

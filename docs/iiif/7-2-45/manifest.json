@@ -3,13 +3,13 @@
   "@id": "https://utda.github.io/kaishi/iiif/7-2-45/manifest.json",
   "@type": "sc:Manifest",
   "label": "春日丸",
-  "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/8ae0b890e3521c42e80511b126ceb6f822413b86.jpg",
+  "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/HDD1/TIFF/7-2-45/7-2-45_000.tif/full/!200,200/0/default.jpg",
   "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
   "attribution": "東京大学駒場図書館 Komaba Library, The University of Tokyo, JAPAN",
   "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
-  "related": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/kaishi/document/191ef971-0050-3ead-7baa-8e11a9a568c4",
-  "seeAlso": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/api/items/445496",
-  "within": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/kaishi",
+  "related": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/191ef971-0050-3ead-7baa-8e11a9a568c4",
+  "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/191ef971-0050-3ead-7baa-8e11a9a568c4?_format=json",
+  "within": "https://da.dl.itc.u-tokyo.ac.jp/portal/collection/kaishi",
   "metadata": [
     {
       "label": "タイトル/Title",
@@ -57,7 +57,7 @@
     },
     {
       "label": "Manifest Uri",
-      "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/191ef971-0050-3ead-7baa-8e11a9a568c4/manifest"
+      "value": "https://da.dl.itc.u-tokyo.ac.jp/portal/repo/iiif/191ef971-0050-3ead-7baa-8e11a9a568c4/manifest"
     },
     {
       "label": "attributionLabel",

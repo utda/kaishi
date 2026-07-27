@@ -3,13 +3,13 @@
   "@id": "https://utda.github.io/kaishi/iiif/7-2-30/manifest.json",
   "@type": "sc:Manifest",
   "label": "御召万歳丸腹形",
-  "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/1aad0c8f97ef4de57a3896ac0921e0172f6d39be.jpg",
+  "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kaishi/HDD1/TIFF/7-2-30/7-2-30.tif/full/!200,200/0/default.jpg",
   "license": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
   "attribution": "東京大学駒場図書館 Komaba Library, The University of Tokyo, JAPAN",
   "logo": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
-  "related": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/kaishi/document/0f2da0ac-4fc3-0a04-a6b8-d18ceb005d8c",
-  "seeAlso": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/api/items/445480",
-  "within": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/kaishi",
+  "related": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/0f2da0ac-4fc3-0a04-a6b8-d18ceb005d8c",
+  "seeAlso": "https://da.dl.itc.u-tokyo.ac.jp/portal/assets/0f2da0ac-4fc3-0a04-a6b8-d18ceb005d8c?_format=json",
+  "within": "https://da.dl.itc.u-tokyo.ac.jp/portal/collection/kaishi",
   "metadata": [
     {
       "label": "タイトル/Title",
@@ -61,7 +61,7 @@
     },
     {
       "label": "Manifest Uri",
-      "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/0f2da0ac-4fc3-0a04-a6b8-d18ceb005d8c/manifest"
+      "value": "https://da.dl.itc.u-tokyo.ac.jp/portal/repo/iiif/0f2da0ac-4fc3-0a04-a6b8-d18ceb005d8c/manifest"
     },
     {
       "label": "attributionLabel",
